@@ -1,0 +1,23 @@
+
+
+.titre{
+    text-align: center;
+    color: rgb(69, 69, 220);
+}
+
+.nom{
+    margin-top: 30px;
+}
+.prenom,.email,.mpass,.btn{
+    margin-top: 10px;
+}
+
+
+.container
+{
+    width: 50%;
+}
+
+form input:focus{
+    transform: scale(1.2);
+}

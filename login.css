@@ -1,0 +1,39 @@
+
+
+.container{
+    width: 50%;
+    margin: auto;
+}
+
+.titre{
+    text-align: center;
+    font-weight: bold;
+    color: rgb(87, 87, 210);
+    margin-top: 50px;
+}
+
+.btn{
+    margin-top: 10px;
+}
+
+
+form{
+    margin-top: 30px;
+
+}
+.mpasssss{
+    margin-top: 10px;
+}
+.mal{
+    margin-top: 20px;
+}
+
+
+.text{
+    text-align: center;
+    margin-left: 45%;
+}
+
+form input:focus{
+    transform: scale(1.1);
+}
