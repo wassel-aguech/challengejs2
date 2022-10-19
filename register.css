@@ -1,12 +1,13 @@
 
 
+
 .titre{
     text-align: center;
     color: rgb(69, 69, 220);
 }
 
 .nom{
-    margin-top: 30px;
+    margin-top: 20px;
 }
 .prenom,.email,.mpass,.btn{
     margin-top: 10px;

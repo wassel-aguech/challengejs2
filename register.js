@@ -67,13 +67,15 @@ function register() {
         }
         var users = JSON.parse(localStorage.getItem('users')) || []
         console.log(data);
-        users.push(data)
-        localStorage.setItem("users", JSON.stringify(users))
+        users.push(data);
+        localStorage.setItem("users", JSON.stringify(users));
+        
 
     } else {
         alert('invalid form')
     }
 }
+
 
 
 
